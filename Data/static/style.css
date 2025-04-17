@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+.card {
+    max-width: 700px;
+    margin: auto;
+}
+input[type="text"] {
+    border-radius: 0.375rem 0 0 0.375rem;
+}
+button {
+    border-radius: 0 0.375rem 0.375rem 0;
+}
